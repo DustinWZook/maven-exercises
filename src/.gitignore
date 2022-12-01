@@ -1,0 +1,9 @@
+# Macos
+.DS_Store
+
+# IntelliJ
+.idea/*
+
+#Compiled outpu
+*.class
+out/*
